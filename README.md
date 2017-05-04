@@ -1,1 +1,1 @@
-# docker-wamp
+# docker-lamp
